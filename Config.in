@@ -1,0 +1,7 @@
+config BR2_PACKAGE_AIY_VOICEBONNET_SOUND
+    bool "aiy_voicebonnet_sound"
+    help
+      Drivers to enable sound with the AIY
+      Voicebonnet V.2
+
+      https://github.com/builderjer/aiy_voicebonnet_sound
